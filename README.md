@@ -12,8 +12,7 @@ This repository contains a collection of projects focused on various aspects of 
   - [Disk Partitioning and Mounting](#disk-partitioning-and-mounting)
   - [Printer Configuration](#printer-configuration)
   - [Resource Monitoring](#resource-monitoring)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 1. Clone the repository:
@@ -22,7 +21,7 @@ This repository contains a collection of projects focused on various aspects of 
 
 2. Navigate to the project directory
    ```sh
-   cd linux-system-config-projects
+   cd system_configuration/[directory]
 
 3. Follow the installation instructions provided in each project’s directory.
 
@@ -62,12 +61,4 @@ This repository contains a collection of projects focused on various aspects of 
   - Track memory and disk usage.
   - Generate logs and alerts based on resource usage.
 
-## Contributing
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-xyz`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-xyz`)
-5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
