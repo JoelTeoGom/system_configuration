@@ -1,0 +1,40 @@
+#!/bin/bash
+
+### BEGIN INIT INFO
+# Provides:          consultaSYSV
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Programa servei d'exemple consultaSYSV
+# Description:       Aquest script programa un servei d'exemple consultaSYSV
+### END INIT INFO
+
+# Ruta absoluta del script de consulta
+CONSULTA_SCRIPT="/home/joel/lab2/consultaPaquet.sh"
+
+# Archivo de registro
+LOG_FILE="/var/log/consultaSYSV.log"
+
+case "$1" in
+  start)
+    if [ -f /tmp/paquets ]; then
+        ARGS=$(cat /tmp/paquets)
+        $CONSULTA_SCRIPT $ARGS
+    elif [ ! -f /tmp/paquets ]; then
+        logger -t consultaSYSV "No s'ha trobat el fitxer paquets."
+    else
+        logger -t consultaSYSV "El fitxer paquets existeix, però no s'han proporcionat paràmetres."
+    fi
+    ;;
+  stop)
+    # No es necesaria ninguna acción para detener el servicio
+    ;;
+  *)
+    echo "Usage: $0 {start}"
+    exit 1
+    ;;
+esac
+
+exit 0
+

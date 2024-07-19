@@ -1,0 +1,36 @@
+#!/bin/bash
+
+#Función para solicitar la palabra clave de forma segura
+prompt_for_password() {
+    # Desactivar la visualización de la entrada
+    stty -echo
+    # Solicitar la palabra clave
+    echo "Introduce la palabra clave (siusplau):"
+    read password
+    # Reactivar la visualización de la entrada
+    stty echo
+    echo
+}
+
+#Verificar si la palabra clave es correcta
+validate_password() {
+    if [ "$password" != "siusplau" ]; then
+        echo "Error: Palabra clave incorrecta."
+        exit 1
+    fi
+}
+
+#Verificar si no se proporcionan argumentos
+if [ $# -eq 0 ]; then
+    echo "Uso: $0 [opciones] archivo"
+    exit 1
+fi
+
+#Solicitar la palabra clave
+prompt_for_password
+
+#Validar la palabra clave
+validate_password
+
+#Enviar el archivo a imprimir con las opciones proporcionadas
+/usr/bin/lp "$@"

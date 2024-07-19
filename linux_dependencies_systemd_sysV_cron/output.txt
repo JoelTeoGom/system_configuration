@@ -1,0 +1,2808 @@
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ init-system-helpers
+ libc6
+ lsb-base
+ kmod
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/acpi
+/etc/acpi/events
+/etc/default
+/etc/default/acpid
+/etc/init.d
+/etc/init.d/acpid
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/acpid.path
+/lib/systemd/system/acpid.service
+/lib/systemd/system/acpid.socket
+/usr
+/usr/bin
+/usr/bin/acpi_listen
+/usr/sbin
+/usr/sbin/acpid
+/usr/share
+/usr/share/doc
+/usr/share/doc/acpid
+/usr/share/doc/acpid/README
+/usr/share/doc/acpid/README.Debian
+/usr/share/doc/acpid/changelog.Debian.gz
+/usr/share/doc/acpid/copyright
+/usr/share/doc/acpid/examples
+/usr/share/doc/acpid/examples/ac
+/usr/share/doc/acpid/examples/ac.sh
+/usr/share/doc/acpid/examples/default
+/usr/share/doc/acpid/examples/default.sh
+/usr/share/doc/acpid/examples/powerbtn
+/usr/share/doc/acpid/examples/powerbtn.sh
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/acpi_listen.8.gz
+/usr/share/man/man8/acpid.8.gz
+==================================================================================
+Consultando información para el paquete: adduser
+Paquete adduser instalado:
+==================================================================================
+Versión actualmente instalada: 3.118ubuntu5
+Fecha y hora de instalación: 2021-01-06 07:16:50.000000000 +0100
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ passwd
+ debconf
+ <debconf-2.0>
+Archivos de configuración asociados al paquete:
+/.
+/etc
+/etc/deluser.conf
+/usr
+/usr/sbin
+/usr/sbin/adduser
+/usr/sbin/deluser
+/usr/share
+/usr/share/adduser
+/usr/share/adduser/adduser.conf
+/usr/share/doc
+/usr/share/doc/adduser
+/usr/share/doc/adduser/TODO
+/usr/share/doc/adduser/changelog.gz
+/usr/share/doc/adduser/copyright
+/usr/share/doc/adduser/examples
+/usr/share/doc/adduser/examples/INSTALL
+/usr/share/doc/adduser/examples/README.gz
+/usr/share/doc/adduser/examples/adduser.local
+/usr/share/doc/adduser/examples/adduser.local.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/adduser.conf
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_logout
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bash_profile
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel.other/index.html
+/usr/share/man
+/usr/share/man/da
+/usr/share/man/da/man5
+/usr/share/man/da/man5/adduser.conf.5.gz
+/usr/share/man/da/man5/deluser.conf.5.gz
+/usr/share/man/da/man8
+/usr/share/man/da/man8/adduser.8.gz
+/usr/share/man/da/man8/deluser.8.gz
+/usr/share/man/de
+/usr/share/man/de/man5
+/usr/share/man/de/man5/adduser.conf.5.gz
+/usr/share/man/de/man5/deluser.conf.5.gz
+/usr/share/man/de/man8
+/usr/share/man/de/man8/adduser.8.gz
+/usr/share/man/de/man8/deluser.8.gz
+/usr/share/man/es
+/usr/share/man/es/man5
+/usr/share/man/es/man5/adduser.conf.5.gz
+/usr/share/man/es/man5/deluser.conf.5.gz
+/usr/share/man/es/man8
+/usr/share/man/es/man8/adduser.8.gz
+/usr/share/man/es/man8/deluser.8.gz
+/usr/share/man/fr
+/usr/share/man/fr/man5
+/usr/share/man/fr/man5/adduser.conf.5.gz
+/usr/share/man/fr/man5/deluser.conf.5.gz
+/usr/share/man/fr/man8
+/usr/share/man/fr/man8/adduser.8.gz
+/usr/share/man/fr/man8/deluser.8.gz
+/usr/share/man/it
+/usr/share/man/it/man5
+/usr/share/man/it/man5/adduser.conf.5.gz
+/usr/share/man/it/man5/deluser.conf.5.gz
+/usr/share/man/it/man8
+/usr/share/man/it/man8/adduser.8.gz
+/usr/share/man/it/man8/deluser.8.gz
+/usr/share/man/man5
+/usr/share/man/man5/adduser.conf.5.gz
+/usr/share/man/man5/deluser.conf.5.gz
+/usr/share/man/man8
+/usr/share/man/man8/adduser.8.gz
+/usr/share/man/man8/deluser.8.gz
+/usr/share/man/pl
+/usr/share/man/pl/man5
+/usr/share/man/pl/man5/adduser.conf.5.gz
+/usr/share/man/pl/man5/deluser.conf.5.gz
+/usr/share/man/pl/man8
+/usr/share/man/pl/man8/adduser.8.gz
+/usr/share/man/pl/man8/deluser.8.gz
+/usr/share/man/pt
+/usr/share/man/pt/man5
+/usr/share/man/pt/man5/adduser.conf.5.gz
+/usr/share/man/pt/man5/deluser.conf.5.gz
+/usr/share/man/pt/man8
+/usr/share/man/pt/man8/adduser.8.gz
+/usr/share/man/pt/man8/deluser.8.gz
+/usr/share/man/ru
+/usr/share/man/ru/man5
+/usr/share/man/ru/man5/adduser.conf.5.gz
+/usr/share/man/ru/man5/deluser.conf.5.gz
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/adduser.8.gz
+/usr/share/man/ru/man8/deluser.8.gz
+/usr/share/man/sv
+/usr/share/man/sv/man5
+/usr/share/man/sv/man5/adduser.conf.5.gz
+/usr/share/man/sv/man5/deluser.conf.5.gz
+/usr/share/man/sv/man8
+/usr/share/man/sv/man8/adduser.8.gz
+/usr/share/man/sv/man8/deluser.8.gz
+/usr/share/perl5
+/usr/share/perl5/Debian
+/usr/share/perl5/Debian/AdduserCommon.pm
+/usr/sbin/addgroup
+/usr/sbin/delgroup
+/usr/share/man/da/man8/addgroup.8.gz
+/usr/share/man/da/man8/delgroup.8.gz
+/usr/share/man/de/man8/addgroup.8.gz
+/usr/share/man/de/man8/delgroup.8.gz
+/usr/share/man/es/man8/addgroup.8.gz
+/usr/share/man/es/man8/delgroup.8.gz
+/usr/share/man/fr/man8/addgroup.8.gz
+/usr/share/man/fr/man8/delgroup.8.gz
+/usr/share/man/it/man8/addgroup.8.gz
+/usr/share/man/it/man8/delgroup.8.gz
+/usr/share/man/man8/addgroup.8.gz
+/usr/share/man/man8/delgroup.8.gz
+/usr/share/man/pl/man8/addgroup.8.gz
+/usr/share/man/pl/man8/delgroup.8.gz
+/usr/share/man/pt/man8/addgroup.8.gz
+/usr/share/man/pt/man8/delgroup.8.gz
+/usr/share/man/ru/man8/addgroup.8.gz
+/usr/share/man/ru/man8/delgroup.8.gz
+/usr/share/man/sv/man8/addgroup.8.gz
+/usr/share/man/sv/man8/delgroup.8.gz
+==================================================================================
+Consultando información para el paquete: acl
+Paquete acl instalado:
+==================================================================================
+Versión actualmente instalada: 2.3.1-1
+Fecha y hora de instalación: 
+No hay actualizaciones disponibles.
+Lista de dependencias del paquete:
+ libacl1
+ libc6
+Archivos de configuración asociados al paquete:
+/.
+/bin
+/bin/chacl
+/bin/getfacl
+/bin/setfacl
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/acl
+/usr/share/doc/acl/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/chacl.1.gz
+/usr/share/man/man1/getfacl.1.gz
+/usr/share/man/man1/setfacl.1.gz
+/usr/share/man/man5
+/usr/share/man/man5/acl.5.gz
+/usr/share/doc/acl/changelog.Debian.gz
+==================================================================================
+Consultando información para el paquete: acpid
+Paquete acpid instalado:
+==================================================================================
+Versión actualmente instalada: 1:2.0.33-1ubuntu1
+Fecha y hora de instalación: 2022-01-25 11:00:15.000000000 +0100

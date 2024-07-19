@@ -1,0 +1,62 @@
+Module                  Size  Used by
+rfkill                 32768  3
+intel_rapl_msr         20480  0
+intel_rapl_common      28672  1 intel_rapl_msr
+intel_pmc_core         45056  0
+vboxsf                 45056  0
+ghash_clmulni_intel    16384  0
+snd_intel8x0           49152  2
+aesni_intel           372736  0
+snd_ac97_codec        180224  1 snd_intel8x0
+libaes                 16384  1 aesni_intel
+ac97_bus               16384  1 snd_ac97_codec
+crypto_simd            16384  1 aesni_intel
+cryptd                 24576  2 crypto_simd,ghash_clmulni_intel
+vboxvideo              32768  1
+snd_pcm               143360  2 snd_intel8x0,snd_ac97_codec
+glue_helper            16384  1 aesni_intel
+drm_vram_helper        24576  1 vboxvideo
+drm_ttm_helper         16384  1 drm_vram_helper
+joydev                 28672  0
+rapl                   20480  0
+snd_timer              49152  1 snd_pcm
+ttm                   114688  2 drm_vram_helper,drm_ttm_helper
+snd                   110592  8 snd_intel8x0,snd_timer,snd_ac97_codec,snd_pcm
+soundcore              16384  1 snd
+sg                     36864  0
+drm_kms_helper        278528  4 drm_vram_helper,vboxvideo
+pcspkr                 16384  0
+vboxguest              49152  6 vboxsf
+cec                    61440  1 drm_kms_helper
+serio_raw              20480  0
+evdev                  28672  13
+ac                     16384  0
+button                 24576  0
+drm                   626688  7 drm_kms_helper,drm_vram_helper,vboxvideo,drm_ttm_helper,ttm
+configfs               57344  1
+fuse                  167936  1
+ip_tables              36864  0
+x_tables               53248  1 ip_tables
+autofs4                53248  2
+ext4                  942080  1
+crc16                  16384  1 ext4
+mbcache                16384  1 ext4
+jbd2                  151552  1 ext4
+crc32c_generic         16384  0
+sd_mod                 61440  3
+t10_pi                 16384  1 sd_mod
+crc_t10dif             20480  1 t10_pi
+crct10dif_generic      16384  0
+ahci                   40960  2
+libahci                45056  1 ahci
+crct10dif_pclmul       16384  1
+crct10dif_common       16384  3 crct10dif_generic,crc_t10dif,crct10dif_pclmul
+crc32_pclmul           16384  0
+libata                299008  2 libahci,ahci
+crc32c_intel           24576  2
+scsi_mod              270336  3 sd_mod,libata,sg
+psmouse               184320  0
+pcnet32                49152  0
+i2c_piix4              28672  0
+mii                    16384  1 pcnet32
+video                  61440  0

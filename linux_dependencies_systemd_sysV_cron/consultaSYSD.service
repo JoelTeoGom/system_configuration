@@ -1,0 +1,12 @@
+[Unit]
+Description=Servicio de consulta de paquetes
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/home/joel/lab2/consultaPaquet.sh acl acpid adduser
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
